@@ -13,4 +13,21 @@
 }
 footer{
     min-height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.social-icon{
+    font-size: 50px;
+    color: rgb(63, 42, 82);
+    margin-bottom: 30px;
+}
+.social-icon:hover{
+    cursor: pointer;
+    color: brown;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
 }
